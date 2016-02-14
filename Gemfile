@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-#gem 'administrate'
+gem 'administrate'
 gem 'rails', '4.2.5.1'
 gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
