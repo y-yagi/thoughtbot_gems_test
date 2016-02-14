@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'administrate'
+gem 'clearance'
 gem 'griddler'
 gem 'rails', '4.2.5.1'
 gem 'sqlite3'
