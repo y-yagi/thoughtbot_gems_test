@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require announcements
 //= require turbolinks
 //= require_tree .
